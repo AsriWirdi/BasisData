@@ -1,3 +1,8 @@
+-- =========================================================
+-- NAMA : ASRI WIRDI
+-- NIM : D0224325
+-- =========================================================
+
 -- Buat database
 CREATE DATABASE toko_elektronik;
 USE toko_elektronik;
